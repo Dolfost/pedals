@@ -1,0 +1,6 @@
+# draw.io desktop temp and backup files
+.$*.dtmp
+*.bkp
+
+# freecadcmd byte-compiles gen-sketches.py
+__pycache__/

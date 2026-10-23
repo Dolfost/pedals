@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240.0mm" height="135.0mm" viewBox="0 0 160.000 90.000">
+<rect width="100%" height="100%" fill="white"/>
+<text x="6.0" y="5.5" font-family="sans-serif" font-size="4" font-weight="bold" fill="#000">left and right side panels (final)</text>
+<text x="6.0" y="10.5" font-family="sans-serif" font-size="3.2" fill="#444">6 jacks Ø9, 21 mm pitch, one row per case shell, 148 × 68 mm</text>
+<g fill="none" stroke="#999" stroke-width="0.2" stroke-dasharray="1.2 0.8">
+<line x1="85.000" y1="29.000" x2="106.000" y2="29.000"/>
+<line x1="106.000" y1="29.000" x2="127.000" y2="29.000"/>
+<line x1="127.000" y1="29.000" x2="154.000" y2="29.000"/>
+<line x1="85.000" y1="29.000" x2="6.000" y2="29.000"/>
+<line x1="85.000" y1="29.000" x2="85.000" y2="16.000"/>
+<line x1="85.000" y1="56.500" x2="85.000" y2="84.000"/>
+<line x1="85.000" y1="29.000" x2="85.000" y2="56.500"/>
+</g><g fill="none" stroke="black" stroke-width="0.35" stroke-linecap="round">
+<line x1="6.000" y1="16.000" x2="6.000" y2="84.000"/>
+<line x1="6.000" y1="84.000" x2="154.000" y2="84.000"/>
+<line x1="154.000" y1="84.000" x2="154.000" y2="16.000"/>
+<line x1="154.000" y1="16.000" x2="6.000" y2="16.000"/>
+<circle cx="85.000" cy="29.000" r="4.500"/>
+<path d="M82.300 29.000 h5.400 M85.000 26.300 v5.400" stroke-width="0.2"/>
+<circle cx="106.000" cy="29.000" r="4.500"/>
+<path d="M103.300 29.000 h5.400 M106.000 26.300 v5.400" stroke-width="0.2"/>
+<circle cx="127.000" cy="29.000" r="4.500"/>
+<path d="M124.300 29.000 h5.400 M127.000 26.300 v5.400" stroke-width="0.2"/>
+<circle cx="127.000" cy="56.500" r="4.500"/>
+<path d="M124.300 56.500 h5.400 M127.000 53.800 v5.400" stroke-width="0.2"/>
+<circle cx="106.000" cy="56.500" r="4.500"/>
+<path d="M103.300 56.500 h5.400 M106.000 53.800 v5.400" stroke-width="0.2"/>
+<circle cx="85.000" cy="56.500" r="4.500"/>
+<path d="M82.300 56.500 h5.400 M85.000 53.800 v5.400" stroke-width="0.2"/>
+</g></svg>

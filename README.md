@@ -114,7 +114,7 @@ The three green LEDs next to it are the Num, Caps and Scroll indicators, desolde
 <img src="images/kb_board_extended_with_prototype_board_2.jpg" width="49%" alt="The same from the other side">
 </p>
 
-Membrane fingers cannot take hook-up wire, so a strip of perfboard was glued along the connector edge, each pad was run to a perfboard pad with thin enamel wire, and the joints were sealed under a layer of black glue.
+Membrane fingers cannot take hook-up wire, so a strip of perfboard was glued along the connector edge, each pad was run to a perfboard pad with thin enamel wire, and the joints were sealed under a coat of black nail polish.
 The eleven matrix lines and USB power now come off the perfboard pads instead.
 
 ### Opto board
